@@ -1,2 +1,4 @@
-# hackerz
-The Source Code For Our Hackerz#9065 Bot in Discord!
+# Hackerz Source Code
+
+
+We Recommended You Use t
